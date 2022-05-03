@@ -1,0 +1,70 @@
+#header{
+    width: 100%;
+    font-family: 'Marcellus SC', serif;
+
+}
+
+
+#header a{
+    color: #fff;
+    
+    
+}
+
+#header .navbar-brand{
+    font-size: 34px;
+    margin-right: 20px;
+}
+
+#header .navbar-collapse{
+    width: auto;
+}
+
+#header .nav-link{
+    font-size: 15px;
+}
+
+#header .navbar-toggler{
+    color:#fff
+}
+#header .navbar-toggler-icon{
+    background-image: ur("menu.svg");
+    background-color: #fff;
+}
+
+body{
+    background-color: #270202;  
+}
+
+#container-fluid{
+    width: 98.5%;
+    min-height: 768px;
+    max-height: 1440px; 
+    background-color: #fff;
+    margin: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+img{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin:1%
+}
+
+main .container{
+    padding: 1%;
+    margin-top: 43.933px;
+}
+
+.form-control.me-2{
+    border-radius: 90px;
+    background-color: #adb5bd;
+    width: 852px;
+    align-items: center;
+}
+
+nav.container{
+    margin-top: 10px;
+}
+
+
